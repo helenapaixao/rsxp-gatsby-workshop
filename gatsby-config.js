@@ -5,5 +5,15 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: 'Rocketseat',
+    description: 'Novo blog da Rocketseat',
+    author: '@joaopedro_cc',
+    siteUrl: 'https://joaopedro.cc',
+    disqusShortname: 'blog-do-joao-pedro',
+  },
+  plugins: [
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-styled-components',
+  ]
 }
