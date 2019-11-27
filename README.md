@@ -32,8 +32,6 @@ Repositório do código para o workshop do Gatsby.
 
     O site está rodando em `http://localhost:8000`!
 
-    Obs: Você vai ver um link secundário: `http://localhost:8000/___graphql`. Essa ferramenta pode ser utilizada para fazer query de informações. Saiba mais [aqui](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
-
 ## 🧐 O que tem dentro?
 
 Um pouco sobre os arquivos que tem dentro de um projeto Gatsby:
@@ -80,13 +78,11 @@ Um pouco sobre os arquivos que tem dentro de um projeto Gatsby:
 
 ## 🎓 Aprendendo Gatsby
 
-Quer saber mais? Dê uma olhada na documentação do Gatsby [no site](https://www.gatsbyjs.org/). Alguns lugares para começar:
+Quer saber mais? Dê uma olhada na documentação do Gatsby [no site](https://www.gatsbyjs.org/).
 
-- **[Tutorial super bem explicado da documentação](https://www.gatsbyjs.org/tutorial/).** Parte do princípio que você tem zero conhecimento sobre. Te guia em todo o processo.
+- **[Tutorial super bem explicado da documentação](https://www.gatsbyjs.org/tutorial/).** Parte do princípio que você tem zero conhecimento sobre.
 
-A documentação é super completa, tem literalmente tudo lá. Se você precisar de alguma ajuda, me mande uma mensagem na nossa comunidade no [Discord](https://rocketseat.com.br/comunidade). Sou o João Pedro Schmitz 🤙🏻
-
-Nós próximos meses vamos trazer muito conteúdo para vocês no canal da Rocketseat sobre Gatsby, fique ligado!!
+A documentação é super completa, tem literalmente tudo lá. Se você precisar de alguma ajuda, me mande uma mensagem na comunidade da Rocketseat no [Discord](https://rocketseat.com.br/comunidade)!
 
 ## 🔗 Alguns links
 
@@ -94,7 +90,7 @@ Nós próximos meses vamos trazer muito conteúdo para vocês no canal da Rocket
 - [joaopedro.cc repositório](https://github.com/jpedroschmitz/joaopedro.cc);
 - [Série ensinando a criar um blog com Gatsby](https://www.joaopedro.cc/blog-com-gatsby-e-react-parte-1);
 - [Gatsby starters](https://www.gatsbyjs.org/starters/?v=2);
-- [Gatsby repositório](https://github.com/gatsbyjs/gatsby)
+- [Repositório do Gatsby](https://github.com/gatsbyjs/gatsby)
 - [Como fazer deploy pro Netlify](https://www.joaopedro.cc/blog-com-gatsby-e-react-parte-5);
 
 ## 🎉 Como contribuir
